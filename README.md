@@ -3,7 +3,7 @@
 </h1>
 
 ### **I'm**
-- 🔭 🏫 a second Year CSE student at BITS Pilani 
+- 🏫 a second Year CSE student at BITS Pilani 
 - 🌱 a Frontend developer 💯
 - 👯 working at The Caarya Experience 👷‍♀️
 - 🥅 Senior Developer at Developers' Society, BITS Goa
