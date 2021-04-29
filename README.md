@@ -1,8 +1,7 @@
 <h1 align='center'>
-  Hi there 👋 I'm Satej 👨‍💻
+  Hey, I'm [Satej](https://satejbidvai.netlify.app/)!
 </h1>
 
-### **I'm**
 - 🏫 a second Year CSE student at BITS Pilani 
 - 🌱 a Frontend developer 💯
 - 👯 working at The Caarya Experience 👷‍♀️
