@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hey, I'm [Satej](https://satejbidvai.netlify.app/)!
+  Hey, I'm Satej!
 </h1>
 
 - 🏫 a second Year CSE student at BITS Pilani 
