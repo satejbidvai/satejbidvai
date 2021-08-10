@@ -2,7 +2,7 @@
 
 - 🏫 a second Year CSE student at BITS Pilani 
 - 🌱 a Frontend developer 💯
-- 👯 working at The Caarya Experience 👷‍♀️
+- 👷‍♀️ working at Stratzy 📈
 - 🥅 Senior Developer at Developers' Society, BITS Goa
 - 💡 I also do a bit of Competitive Coding 
 
