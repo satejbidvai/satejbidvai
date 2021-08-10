@@ -4,7 +4,6 @@
 - 🌱 a Frontend developer 💯
 - 👷‍♀️ working at Stratzy 📈
 - 🥅 Senior Developer at Developers' Society, BITS Goa
-- 💡 I also do a bit of Competitive Coding 
 
 ###
 ---
