@@ -1,8 +1,8 @@
 ## Hey, I'm [Satej](https://satejbidvai.netlify.app/) !
 
-- 🏫 a second Year CSE student at BITS Pilani 
-- 🌱 a Frontend developer 💯
-- 👷‍♀️ working at Stratzy 📈
+- 🏫 junior at BITS Pilani 
+- 🌱 a Full-Stack Web developer (MERN) 💯
+- 👷‍♀️ working at Stratzy (Intern) 📈
 - 🥅 Senior Developer at Developers' Society, BITS Goa
 
 ###
